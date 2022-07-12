@@ -4,7 +4,7 @@ The dataset used in the project is â€˜Personal Key Indicators of Heart Diseaseâ€
 **The Data**: There are 319795 entries in the raw data set, with 17 factors that might be the cause of Heart diseases.
 
 Machine Learning Models:
-Comparison of five maching learning models have been used for this dataset
+Comparison of six maching learning models have been used for this dataset
 
 1) LogisticRegression Model
 2) KNeighbors Model
